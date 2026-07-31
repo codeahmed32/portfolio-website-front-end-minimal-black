@@ -1,0 +1,6 @@
+{
+  "name": "Noir Archive",
+  "description": "A high-contrast cinematic digital portfolio and interactive archive showcasing minimal, precise software engineering and software designs.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
