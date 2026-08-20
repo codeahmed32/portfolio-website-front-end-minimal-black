@@ -1,20 +1,25 @@
-<div align="center">
-<img width="1200" height="475" alt="GHBanner" src="https://ai.google.dev/static/site-assets/images/share-ais-513315318.png" />
-</div>
+# Minimal Black - Developer Portfolio Website
 
-# Run and deploy your AI Studio app
+A modern, responsive, and minimalist portfolio website built with React and Tailwind CSS. Designed with a sleek dark aesthetic to present projects, technical capabilities, and developer experience.
 
-This contains everything you need to run your app locally.
+## 🚀 Features
 
-View your app in AI Studio: https://ai.studio/apps/681ba118-e701-4cbb-bb2d-2365d0b5daa5
+* **Minimalist Dark Mode:** Clean, high-contrast dark UI focused on performance and typography.
+* **Fully Responsive:** Styled with Tailwind CSS to ensure seamless layout scaling across mobile, tablet, and desktop viewports.
+* **Featured Projects Section:** Dedicated cards highlighting live deployments, project overviews, and source code links.
+* **Technical Skills Grid:** Visual breakdown of core skills, frameworks, and developer tools.
+* **Optimized Build:** Fast initial load time and smooth client-side interactions.
 
-## Run Locally
+## 🛠️ Tech Stack
 
-**Prerequisites:**  Node.js
+* **Framework:** React.js
+* **Styling:** Tailwind CSS
+* **Language:** JavaScript (ES6+)
+* **Deployment:** Vercel / Netlify
 
+## ⚙️ Local Development Setup
 
-1. Install dependencies:
-   `npm install`
-2. Set the `GEMINI_API_KEY` in [.env.local](.env.local) to your Gemini API key
-3. Run the app:
-   `npm run dev`
+1. **Clone the repository:**
+   ```bash
+   git clone [https://github.com/YOUR_USERNAME/portfolio-website-front-end-minimal-black.git](https://github.com/YOUR_USERNAME/portfolio-website-front-end-minimal-black.git)
+   cd portfolio-website-front-end-minimal-black
